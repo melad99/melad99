@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Front-End Developing**
 
-- 📫 How to reach me **Melad1999@gmail.om**
+- 📫 How to reach me: **Melad1999@gmail.om**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
