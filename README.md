@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Melad Alsaleh</h1>
 <h3 align="center">A passionate Front-End Developer from Palestine</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melad99&label=Profile%20views&color=0e75b6&style=flat" alt="melad99" /> </p>
 
