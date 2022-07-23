@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melad99&label=Profile%20views&color=0e75b6&style=flat" alt="melad99" /> </p>
 
+-  👀 I’m interested in growing and learning new Skills for becoming an experienced FrontEnd Developer
+
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Front-End Developing**
