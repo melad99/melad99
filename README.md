@@ -8,7 +8,7 @@
 
 -  👀 I’m interested in growing and learning new Skills for becoming an experienced FrontEnd Developer
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Front-End Developing**
 
